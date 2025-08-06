@@ -11,8 +11,9 @@ pydantic-settings==0.2.5
 python-docx
 python-dotenv
 pymupdf
-PyYAML>=6.0
+PyYAML==5.4.1
 requests
 sentence-transformers==2.2.2
 tqdm>=4.65.0
 tokenizers==0.13.3
+
