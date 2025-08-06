@@ -15,5 +15,6 @@ PyYAML==6.0.1
 requests
 sentence-transformers==2.2.2
 tqdm>=4.65.0
-tokenizers==0.13.3
+tokenizers==0.14.1
+
 
